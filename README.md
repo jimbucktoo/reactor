@@ -1,6 +1,6 @@
 # reactor
 
-reactor is a React application created in JSX to help me learn the fundamentals of the React library.
+reactor is a React application created in Javascript to help me learn the fundamentals of the React library.
 
 ## Technologies
 
