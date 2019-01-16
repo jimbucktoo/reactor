@@ -9,4 +9,4 @@ reactor is a React application created in Javascript to help me learn the fundam
 
 ## Authors
 
-* **James Liang** - *Initial work* - [jimbucktoo](https://github.com/jimbucktoo/jimbucktoo)
+* **James Liang** - *Initial work* - [jimbucktoo](https://github.com/jimbucktoo/)
